@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "ESP8266-01_ESP-01")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP8266-01_ESP-01/ESP8266-01_ESP-01.kicad_sym")(options "")(descr ""))
+)

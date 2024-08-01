@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ESP8266-01_ESP-01")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ESP8266-01_ESP-01")(options "")(descr ""))
+  (lib (name "custom_switch")(type "KiCad")(uri "${KIPRJMOD}/Libraries/custom_switch.pretty")(options "")(descr ""))
+)
