@@ -2572,6 +2572,9 @@
   (gr_text "1" (at 173.004 129.54) (layer "F.SilkS") (tstamp f79a2247-3f53-4d2b-940d-c68406d6caef)
     (effects (font (size 1 1) (thickness 0.15)))
   )
+  (gr_text "TODO:\n - Increase connector size for screw terminas\n - Change ESP-01 orientation to cover board" (at 165.989 146.431) (layer "Dwgs.User") (tstamp 2f6de442-0758-40c2-899c-13a1a3d8653c)
+    (effects (font (size 1.5 1.5) (thickness 0.3)))
+  )
 
   (segment (start 178.263 102.38) (end 175.006 102.38) (width 0.4) (layer "F.Cu") (net 1) (tstamp 1d478fc3-8ecf-41fd-9766-8e656b788107))
   (segment (start 169.876 100.33) (end 169.926 100.28) (width 0.4) (layer "F.Cu") (net 1) (tstamp 4f234edf-562e-4b37-976c-f311f554d721))
